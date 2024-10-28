@@ -8,7 +8,7 @@
 - 💼 I develop trading indicators using **Pine Script** for TradingView  
   (Specializing in **trend detection**, **volatility measures**, and **signal alerts**)
 
-- 💻 My projects are **50% Java** and **50% Python**, focusing on financial applications and data science tools.
+- 💻 My projects are **50% Java** and **50% PineScript**, focusing on financial applications and data science tools.
 
 - 📫 How to reach me **yaskhalil2006@gmail.com**
 
