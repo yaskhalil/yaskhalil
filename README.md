@@ -38,15 +38,4 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yaskhalil&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yaskhalil&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaskhalil&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=yaskhalil&icon=0&color=6)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
