@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yaseen</h1>
 <h3 align="center">I am a Passionate Coder with a Focus on Financial Algorithms from New Jersey</h3>
 
-- 🔭 I’m currently working on **streamlit_app**
+- 🔭 I’m currently working on **SaveAiapp**
 
 - 🌱 I’m currently learning **Computational Modeling and Data Analysis at Virginia Tech**
 
