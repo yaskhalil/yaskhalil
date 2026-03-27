@@ -33,4 +33,4 @@ Building at the intersection of Mathematical Modeling and Scalable AI Infrastruc
 ---
 
 ### 🌐 Connect With Me
-[LinkedIn](https://linkedin.com/in/yaseenkhalil) | [Email](mailto:yaskhalil2006@gmail.com)
+[LinkedIn](https://linkedin.com/in/yaseenkhalil) | [Email](mailto:yaskhalil2006@gmail.com) | [Website](yaskhalil.com)
